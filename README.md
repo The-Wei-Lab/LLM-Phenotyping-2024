@@ -11,5 +11,5 @@ The result of this work has been made public at arXiv: [Large Language Models Fa
 
 ### Prompting strategies
 SQL files with the suffix "_1" correspond to the alpha-prompting strategy, whereas those with the suffix "_2" correspond to the beta-prompting strategy
-
-![image](./results/figures.png)
+![image](./results/Figure1.png)
+![image](./results/Figure2.png)
